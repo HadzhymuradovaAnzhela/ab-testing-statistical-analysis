@@ -36,7 +36,7 @@ At the aggregate level, the experiment did not demonstrate statistically signifi
 Statistical data confirmed a decline in the begin_checkout conversion rate, which was particularly evident among Mobile and Tablet users. Although a slight uptick was observed in adding payment information, it did not reach the threshold for significance. Given that the overall trend across most regions remains negative, it is advisable to reject the changes, revert to the original interface, and re-evaluate the initial hypothesis.  
 ⏳**Test 4**    
 The experiment led to a notable performance drop in Europe and on Desktop devices, specifically in adding payment information and checkout initiation. However, the Mobile segment proved to be an exception, showing a statistically verified lift in checkout initiation. Therefore, the global rollout should be halted. It is, however, appropriate to conduct a separate, targeted test for Mobile users with a larger sample size to validate and scale this positive effect.
-## [Interactive Dashboards (Tableau)](https://public.tableau.com/app/profile/angela.krupa/viz/ABTestDistributionandAnalysis/ABtest#2)  
+## [Interactive Dashboards (Tableau)](https://public.tableau.com/app/profile/anzhela.hadzhymuradova/viz/ABTestDistributionandAnalysis/ABtest)  
 
 **A/B Test Distribution**  
 <img width="999" height="1499" alt="AB test" src="https://github.com/user-attachments/assets/eaaeb6ad-b5d1-4db5-b4c9-cc2a41ea2a47" />
